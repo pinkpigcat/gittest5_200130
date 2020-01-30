@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-test.jsp
+test.jsp 수정
 </body>
 </html>
